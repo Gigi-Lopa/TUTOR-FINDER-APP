@@ -1,0 +1,21 @@
+let SUBJECTS = [
+    "Engineering Maths",
+    "NASS",
+    "Electronics",
+    "Shona",
+    "Programming I",
+    "Data & IP",
+    "Software Engineering",
+    "Computer Skills",
+    "IOT/AT",   
+    "Cyber Security",
+    "Database Management",
+    "Programming  II",
+    "Engineering Maths II",
+    "Technopreneurship",
+    "Software Project Management",
+    "Software Quality Managemnet",
+    "Researh methods",
+    "English",
+]
+export default SUBJECTS;
